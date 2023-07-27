@@ -4,4 +4,4 @@ metadata:
   name: postgresql
 spec:
   type: ExternalName
-  externalName: mydb-ec2.sandbox1405.opentlc.com
+  externalName: mydb-ec2.sandbox2577.opentlc.com
