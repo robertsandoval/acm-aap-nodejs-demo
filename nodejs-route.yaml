@@ -6,7 +6,6 @@ metadata:
     template: nodejs-postgresql-persistent
   name: nodejs-postgresql-persistent
 spec:
-  host: ""
   to:
     kind: Service
     name: nodejs-postgresql-persistent
