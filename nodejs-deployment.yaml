@@ -25,7 +25,7 @@ spec:
         - name: DATABASE_SERVICE_NAME
           value: postgresql
         - name: POSTGRESQL_SERVICE_HOST
-          value: mydb-ec2.sandbox1929.opentlc.com
+          value: mydb-ec2.sandbox2898.opentlc.com
         - name: POSTGRESQL_SERVICE_PORT
           value: '"5432"'
         - name: POSTGRESQL_USER
