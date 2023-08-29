@@ -44,7 +44,7 @@ spec:
               key: database-admin-password
               name: nodejs-postgresql-persistent
         - name: POSTGRESQL_DATABASE
-          value: mydb
+          value: postgres
         image: quay.io/robertsandoval/nodejs-postgresql-persistent:latest
         imagePullPolicy: Always
         name: container
